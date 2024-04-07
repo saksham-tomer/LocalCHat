@@ -4,7 +4,7 @@
 
 Local Multimodal AI Chat is a hands-on project aimed at learning how to build a multimodal chat application. This project is all about integrating different AI models to handle audio, images, and PDFs in a single chat interface. It's a great way for anyone interested in AI and software development to get practical experience with these technologies.
 
-The main purpose here is to learn by doing. You'll see how different pieces like Whisper AI for audio, LLaVA for image processing, and Chroma DB for PDFs come together in a chat application. A full tutorial on how I created this repository can be found on my [youtube channel](https://youtu.be/CUjO8b6_ZuM).
+The main purpose here is to learn by doing. You'll see how different pieces like Whisper AI for audio, LLaVA for image processing, and Chroma DB for PDFs come together in a chat application.
 But, this is still a work in progress. There's plenty of room for improvement, and that's where you come in.
 
 I'm really open to pull requests. Whether you have ideas for new features, ways to make the code better, or just want to fix a bug, your contributions are welcome. This project is as much about learning from each other as it is about building something cool.
@@ -35,5 +35,6 @@ To get started with Local Multimodal AI Chat, clone the repository and follow th
 7. **Enter commands in terminal**:
 
    1. ``python3 database_operations.py`` This will initialize the sqlite database for the chat sessions.
-   2. ``streamlit run app.py``
-      ## Possible Improvements
+   2. ``streamlit run app.py``## Possible Improvements
+
+![1712521934473](image/README/1712521934473.png)![1712521869715](image/README/1712521869715.png)
